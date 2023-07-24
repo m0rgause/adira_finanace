@@ -1,0 +1,20 @@
+/* * {
+    font-family: 'Spartan', 'Quicksand', 'Bitter', 'Montserrat', 'sans-serif';
+} */
+
+.bg-yellow {
+    background-color: #FBDC04;
+}
+
+.jumbotron-image {
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url('../images/jumbotron.png');
+    background-size: cover;
+    background-position: center;
+    height: 640px;
+    width: 100%;
+}
+
+.card-img-h {
+    height: 250px;
+}
